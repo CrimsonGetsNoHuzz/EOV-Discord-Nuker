@@ -11,3 +11,6 @@ legit nuker for discord
 # tips
 
 **1. To get ur user id, server ID, etc. turn on dev mode, settings --> advanced --> dev mode**
+
+# erm
+chat the bot has to be in the server
